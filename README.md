@@ -11,4 +11,4 @@ About me
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on tech for good projects
 - 💬 Ask me about Python , Django , Flask , SQL
-- 📫 How to reach me: harout.dev@gmail.com
+- 📫 How to reach me: harmardir@gmail.com
