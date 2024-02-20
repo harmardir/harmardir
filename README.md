@@ -9,6 +9,6 @@ About me
 
 - 🔭 I’m currently working on Django , Flask , FastAPI , Open Edx 
 - 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on tech for good projects
+- 👯 I’m looking to collaborate on tech for good/open source projects
 - 💬 Ask me about Python , Django , Flask , SQL
 - 📫 How to reach me: harmardir@gmail.com
